@@ -55,8 +55,9 @@ Contributions to this script are welcome. Please follow standard Python coding c
 This script is released under the MIT License. For more details, see the LICENSE file in the repository.
 
 ## Contact
-- Charl Cronje
-- charl.cronje@mail.com
+- Author: Charl Cronje
+- Email: charl.cronje@mail.com
+- LinkedIn: [https://www.linkedin.com/in/charlpcronje](https://www.linkedin.com/in/charlpcronje/)
 - [https://github.com/charlpcronje/Bcrypt-Hash-Generator](https://github.com/charlpcronje/Bcrypt-Hash-Generator)
 ---
 
