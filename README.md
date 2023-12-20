@@ -19,6 +19,8 @@ pip install bcrypt
 ## Usage
 To use the script, run it from the command line with a single argument: the string you wish to hash.
 
+[Download](./bcryptHashGenerator.py)
+
 Syntax:
 
 ```bash
@@ -55,12 +57,12 @@ Contributions to this script are welcome. Please follow standard Python coding c
 This script is released under the MIT License. For more details, see the LICENSE file in the repository.
 
 ## Contact
-- Charl Cronje
-- charl.cronje@mail.com
-- [https://github.com/charlpcronje/Bcrypt-Hash-Generator](https://github.com/charlpcronje/Bcrypt-Hash-Generator)
+- Author: Charl Cronje
+- Email: charl.cronje@mail.com
+- LinkedIn: [https://www.linkedin.com/in/charlpcronje](https://www.linkedin.com/in/charlpcronje/)
+- GitHub: [https://github.com/charlpcronje/Bcrypt-Hash-Generator](https://github.com/charlpcronje/Bcrypt-Hash-Generator)
 ---
 
 ## Additional Resources
 - [bcrypt documentation](https://pypi.org/project/bcrypt/)
 - [Python 3 documentation](https://docs.python.org/3/)
-
