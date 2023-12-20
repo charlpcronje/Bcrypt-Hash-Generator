@@ -1,5 +1,6 @@
-
 # Bcrypt Hash Generator
+
+[https://github.com/charlpcronje/Bcrypt-Hash-Generator](https://github.com/charlpcronje/Bcrypt-Hash-Generator)
 
 ## Overview
 This Python script is designed to generate secure bcrypt hashes from plain text strings. It's particularly useful for hashing passwords in a secure manner, using the bcrypt hashing algorithm, which is widely recognized for its cryptographic strength.
@@ -54,9 +55,9 @@ Contributions to this script are welcome. Please follow standard Python coding c
 This script is released under the MIT License. For more details, see the LICENSE file in the repository.
 
 ## Contact
-Charl Cronje
-charl.cronje@mail.com
-
+- Charl Cronje
+- charl.cronje@mail.com
+- [https://github.com/charlpcronje/Bcrypt-Hash-Generator](https://github.com/charlpcronje/Bcrypt-Hash-Generator)
 ---
 
 ## Additional Resources
